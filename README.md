@@ -18,13 +18,18 @@
 - Claude Code **2.1.325**（native 单文件构建，Bun bytecode）
 - Linux 上同样结构，但 ad-hoc 重签名只在 macOS 执行，未实测
 
+> 只支持 **native 安装**（`~/.local/share/claude/versions/`）。
+> 用 npm 安装的 `claude` 是 JS 脚本，不支持。
+
 ## 安装
 
 ```bash
-git clone <this-repo> claude-code-asuka-eva02
+git clone https://github.com/akasakariko/claude-code-asuka-eva02.git
 cd claude-code-asuka-eva02
 bash install.sh
 ```
+
+> 仓库当前是 **private**。在另一台电脑上先 `gh auth login`（或把仓库改成 public）再 clone。
 
 重启 Claude Code 后生效。主题也可以在 `/theme` 里确认选择 **EVA-02 Asuka**。
 
