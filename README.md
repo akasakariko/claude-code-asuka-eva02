@@ -89,7 +89,7 @@ themes/asuka.json               EVA-02 配色主题（纯颜色）
 statusline/statusline.py        EVA-02 SYNC 状态栏
 settings/asuka.fragment.json    spinner 动词 / 横幅 / 主题入口
 localize/asuka_patch.py         字符串表补丁工具
-localize/asuka-strings.json     英 → 日翻译表（109 条）
+localize/asuka-strings.json     英 → 日翻译表（113 条）
 install.sh                      一键安装
 ```
 

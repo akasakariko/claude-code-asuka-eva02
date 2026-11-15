@@ -9,6 +9,10 @@
     { "en": " · ? for shortcuts", "ja": "・? でヘルプ" },
     { "en": " · esc to interrupt", "ja": "・esc で中断" },
     { "en": "paste again to expand", "ja": "再貼付で展開" },
+    { "en": " for agents", "ja": " 仲間" },
+    { "en": "view tasks", "ja": "タスク表示" },
+    { "en": "hide tasks", "ja": "タスク隠す" },
+    { "en": "show tasks", "ja": "タスク表示" },
     { "en": " (ctrl+o to expand)", "ja": " ctrl+o 展開" },
 
     { "en": "Using flicker-free rendering", "ja": "ちらつき防止描画" },
