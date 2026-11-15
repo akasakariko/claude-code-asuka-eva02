@@ -1,0 +1,27 @@
+{
+  "theme": "custom:asuka",
+  "statusLine": {
+    "type": "command",
+    "command": "$HOME/.claude/statusline.py"
+  },
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "EVA-02 弐号機・発進",
+      "あんたバカぁ？！",
+      "A.T.フィールド全開",
+      "シンクロ率 98.4% 維持",
+      "プログレッシブ・ナイフ展開",
+      "L.C.L. 神経接続・思考同調",
+      "アンビリカル・ケーブル接続",
+      "MAGI 戦術演算・解析中",
+      "ロンギヌスの槍・軌道照準",
+      "裏コード：THE BEAST 起動"
+    ]
+  },
+  "companyAnnouncements": [
+    "\u001b[38;2;255;30;39;1m◢ NERV TACTICAL HUD // MULTIPURPOSE HUMANOID DECISIVE WEAPON: EVA-02 [弐号機] ◣\u001b[0m\n\u001b[38;2;255;140;0mPILOT:\u001b[0m \u001b[38;2;255;245;235;1mSORYU ASUKA LANGLEY (惣流・アスカ・ラングレー)\u001b[0m  \u001b[38;2;0;255;102m● A10 NEURAL CLIP: ONLINE\u001b[0m  \u001b[38;2;56;189;248m● EYE OPTICS: SYNCED\u001b[0m\n\u001b[38;2;255;158;109m「あんたバカぁ？ アスカ様の弐号機、発進よ！」\u001b[0m",
+    "\u001b[38;2;255;30;39;1m◢ EVANGELION PRODUCTION MODEL-02 // SORYU ASUKA LANGLEY ◣\u001b[0m\n\u001b[38;2;0;255;102mSYNC RATIO: 98.4%\u001b[0m  \u001b[38;2;255;140;0m● L.C.L. DENSITY: NORMAL\u001b[0m  \u001b[38;2;56;189;248m● PROGRESSIVE KNIFE: ARMED\u001b[0m\n\u001b[38;2;255;158;109m「見てなさいよシンジ！ 私の完璧なオペレーションをね！」\u001b[0m",
+    "\u001b[38;2;255;30;39;1m◢ NERV HQ // MAGI SYSTEM: MELCHIOR-1 · BALTHASAR-2 · CASPER-3 [CONSENSUS: APPROVED] ◣\u001b[0m\n\u001b[38;2;255;140;0mPILOT:\u001b[0m \u001b[38;2;255;245;235;1mSECOND CHILDREN — SORYU ASUKA LANGLEY\u001b[0m  \u001b[38;2;0;255;102m● LANGUAGE: DEUTSCH / JAPANESE\u001b[0m\n\u001b[38;2;255;158;109m「Erste Platte... Verbindung! 私がエヴァに乗るのを邪魔しないで！」\u001b[0m"
+  ]
+}
