@@ -27,6 +27,7 @@
     { "en": "accept edits", "ja": "編集許可" },
     { "en": "bypass permissions", "ja": "暴走モード" },
     { "en": "don't ask", "ja": "無確認" },
+    { "en": "auto mode", "ja": "オート" },
     { "en": "accept edits (auto-approve file edits and common file commands)", "ja": "編集自動承認（ファイル編集と一般コマンド）" },
     { "en": "leave for accept edits mode and stop", "ja": "編集承認モードへ移り停止" },
 
